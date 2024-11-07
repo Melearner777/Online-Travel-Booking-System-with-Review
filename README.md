@@ -31,9 +31,9 @@ Database: MySQL
 Setup
 Clone the Repository:
 
-bash
-Copy code
 git clone <repository_url>
+cd hotel-management-system
+
 cd hotel-management-system
 Install Dependencies: Install MySQL and Java Development Kit (JDK) if not already installed.
 
